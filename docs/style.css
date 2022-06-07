@@ -1,14 +1,3 @@
-@font-face {
-  font-family: "rift";
-  src: url("https://res.cloudinary.com/gvissing/raw/upload/v1628608775/fonts/Rift-Italic_xlkb9m.woff") format("woff"),
-    url("https://res.cloudinary.com/gvissing/raw/upload/v1628608775/fonts/Rift-Italic_npdf11.ttf") format("truetype"),
-    url("https://res.cloudinary.com/gvissing/raw/upload/v1628608758/fonts/rift-italic_kjnmyj.otf") format("opentype");
-  font-display: swap;
-  letter-spacing: .3px !important
-}
-    
-
-
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 
 /**
@@ -497,10 +486,6 @@ h5 {
 h6 {
   font-size: 18px;
   color: #777;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "rift";
 }
 
 blockquote {
