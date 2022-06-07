@@ -7,9 +7,7 @@
   letter-spacing:.3px !important
 }
     
-h1, h2, h3, h4, h5, h6 {
-  font-family: "rift", sans-serif;
-}
+
 
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
 
@@ -499,6 +497,10 @@ h5 {
 h6 {
   font-size: 18px;
   color: #777;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "rift";
 }
 
 blockquote {
