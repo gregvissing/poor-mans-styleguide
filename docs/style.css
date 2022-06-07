@@ -1,3 +1,17 @@
+:root {
+    --text-multiplier: 1.1;
+    --color-brand-red: #e00122;
+    --color-brand-black: #000;
+    --color-white: #fff;
+    --color-text: #222;
+    --color-ltGray: #ccc;
+    --color-dkGray: #666;
+    --color-callout-bg: #f3f3f3;
+    --color: 0,100%;
+    --color-tertiary: #0e3b5e;
+    --container-width: 1024px
+}
+
 @font-face {
   font-family: "rift";
   src: url("https://res.cloudinary.com/gvissing/raw/upload/v1628608775/fonts/Rift-Italic_xlkb9m.woff") format("woff"),
@@ -499,6 +513,7 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "rift", sans-serif;
+  color: var(--color-brand-red);
 }
 
 blockquote {
