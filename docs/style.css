@@ -547,10 +547,10 @@ label {
 .intro {
   padding: 5em 0 4em;
   font-size: 0.9em;
-  background-image: url(mini-divider.png);
+  /* background-image: url(mini-divider.png);
   background-repeat: no-repeat;
   background-position: 50% 28px;
-  background-size: 80px;
+  background-size: 80px; */
   max-width: 600px;
   margin: 0 auto;
 }
